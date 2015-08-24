@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[TableViewController tableView:commitEditingStyle:forRowAtIndexPath:]:TableViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "__43-[RegisterUserViewController registerUser:]_block_invoke_0:RegisterUserViewController.m">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

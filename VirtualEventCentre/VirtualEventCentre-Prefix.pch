@@ -1,0 +1,17 @@
+//
+// Prefix header for all source files of the 'VirtualEventCentre' target in the 'VirtualEventCentre' project
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_5_0
+#warning "This project uses features only available in iOS SDK 5.0 and later."
+#endif
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+    #import "AppDelegate.h"
+#define IP_ADDRESS_AMAZON_AWS @"http://23.21.180.33:8080/"
+#define IP_ADDRESS_MAC @"http://77.102.88.249/"
+#endif
